@@ -1,0 +1,6 @@
+/home/ayshan/RiderProjects/FIndTheMissingLetter/FIndTheMissingLetter/bin/Debug/FIndTheMissingLetter.exe
+/home/ayshan/RiderProjects/FIndTheMissingLetter/FIndTheMissingLetter/bin/Debug/FIndTheMissingLetter.pdb
+/home/ayshan/RiderProjects/FIndTheMissingLetter/FIndTheMissingLetter/obj/Debug/FIndTheMissingLetter.csprojAssemblyReference.cache
+/home/ayshan/RiderProjects/FIndTheMissingLetter/FIndTheMissingLetter/obj/Debug/FIndTheMissingLetter.csproj.CoreCompileInputs.cache
+/home/ayshan/RiderProjects/FIndTheMissingLetter/FIndTheMissingLetter/obj/Debug/FIndTheMissingLetter.exe
+/home/ayshan/RiderProjects/FIndTheMissingLetter/FIndTheMissingLetter/obj/Debug/FIndTheMissingLetter.pdb
